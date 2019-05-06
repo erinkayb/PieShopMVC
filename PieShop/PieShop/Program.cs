@@ -31,6 +31,8 @@ namespace PieShop
                     // log
                 }
             }
+
+            // don't forget to run the program :) 
             host.Run();
         }
 

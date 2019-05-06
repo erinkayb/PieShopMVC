@@ -48,3 +48,5 @@ C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\ob
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\obj\Debug\netcoreapp2.2\PieShop.dll
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\obj\Debug\netcoreapp2.2\PieShop.pdb
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\obj\Debug\netcoreapp2.2\PieShop.csproj.CopyComplete
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\PieShopMVC\PieShop\PieShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs

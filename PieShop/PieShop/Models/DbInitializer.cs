@@ -21,7 +21,8 @@ namespace PieShop.Models
                     LongDescription = "Warm pie made with apples and cinnamon.",
                     ImageThumbnailUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557136935/Apple-pie.jpg",
                     ImageUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557136935/Apple-pie.jpg",
-                    IsPieOfTheWeek = true
+                    IsPieOfTheWeek = true,
+                    IsInStock = true
                 },
                 new Pie
                 {
@@ -33,7 +34,8 @@ namespace PieShop.Models
                         "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/classic-strawberry-cheesecake.jpg",
                     ImageUrl =
                         "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/classic-strawberry-cheesecake.jpg",
-                    IsPieOfTheWeek = false
+                    IsPieOfTheWeek = false,
+                    IsInStock = true
                 },
                 new Pie
                 {
@@ -44,7 +46,8 @@ namespace PieShop.Models
                     ImageThumbnailUrl =
                         "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/Blueberry-Pie.jpg",
                     ImageUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/Blueberry-Pie.jpg",
-                    IsPieOfTheWeek = false
+                    IsPieOfTheWeek = false,
+                    IsInStock = true
                 },
                 new Pie
                 {
@@ -54,7 +57,8 @@ namespace PieShop.Models
                     LongDescription = "Cool, creamy pie made with fresh cream.",
                     ImageThumbnailUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/cream-pie.jpg",
                     ImageUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557136936/cream-pie.jpg",
-                    IsPieOfTheWeek = false
+                    IsPieOfTheWeek = false,
+                    IsInStock = false
                 },
                 new Pie
                 {
@@ -64,7 +68,8 @@ namespace PieShop.Models
                     LongDescription = "Cool, creamy banana pie made with fresh bananas and full fat cream.",
                     ImageThumbnailUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557142471/banana-cream-pie.jpg",
                     ImageUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557142471/banana-cream-pie.jpg",
-                    IsPieOfTheWeek = false
+                    IsPieOfTheWeek = false,
+                    IsInStock = true
                 },
                 new Pie
                 {
@@ -75,7 +80,8 @@ namespace PieShop.Models
                     ImageThumbnailUrl =
                         "https://res.cloudinary.com/erinkayb/image/upload/v1557142471/Cherry-pie.jpg",
                     ImageUrl = "https://res.cloudinary.com/erinkayb/image/upload/v1557142471/Cherry-pie.jpg",
-                    IsPieOfTheWeek = false
+                    IsPieOfTheWeek = false,
+                    IsInStock = false
                 }
                     );
                 context.SaveChanges();
